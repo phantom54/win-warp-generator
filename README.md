@@ -11,9 +11,9 @@ Powershell/cmd:
 If you want to build x32:
 `rustup target add i686-pc-windows-msvc`
 
-`cd /d E:\warp_generator`
+`cd /d E:\warp_generator` as example
 
-simply `cargo build --release` if you're on x64 system
+simply `cargo build --release`
 
 or
 
